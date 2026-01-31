@@ -26,6 +26,12 @@ contributors to film success through interactive Power BI visualisations.
 - A small group of directors contribute disproportionately to critically successful films.
 - Revenue peaks are observed in specific release periods.
 
+## Additional Documents
+- Insights_Summary.md – Key findings and analytical insights from the dashboard  
+- Assumptions_and_Limitations.md – Data assumptions, scope, and analytical constraints  
+- Future_Improvements.md – Potential enhancements and next steps for the analysis  
+
+
 ## Skills Demonstrated
 - Business intelligence and data visualisation
 - Power BI dashboard development
